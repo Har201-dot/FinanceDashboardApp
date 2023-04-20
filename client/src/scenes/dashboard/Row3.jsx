@@ -196,10 +196,10 @@ const Row3 = () => {
 					></Box>
 				</Box>
 				<Typography margin="0 1rem" variant="h6">
-					Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
-					ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas
-					molestie volutpat et. Malesuada quis pretium aliquet lacinia ornare
-					sed. In volutpat nullam at est id cum pulvinar nunc.
+					Our company's losses decreased by 25% due to improved efficiency,
+					while profits rose by 30% from strategic investments and exceptional
+					customer service. We are committed to building on this success and
+					thank you for your support.
 				</Typography>
 			</DashboardBox>
 		</>
