@@ -2,7 +2,7 @@
 
 Finanseer is a full-stack finance dashboard application that provides customers with key performance indicators (KPIs) in the form of graphs to track their company's financial performance. The application also features future revenue predictions using machine learning (linear regression).
 
-*  (backend takes time to load because it's hosted on free tier render.com)
+*  (backend takes time to load because it's hosted on free tier render.com , refresh couple of times)
 
 ## Technologies
 
